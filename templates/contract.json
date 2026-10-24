@@ -1,0 +1,57 @@
+{
+  "spec_id": "",
+  "stage": "contract",
+  "status": "awaiting_gate_1",
+  "narrative": "",
+  "contract": {
+    "trigger": {
+      "source": {"value": "", "confidence": "confirmed"},
+      "constraint": {"value": "", "confidence": "confirmed"}
+    },
+    "boundaries": [
+      {"rule": "", "confidence": "confirmed"}
+    ],
+    "output_schema": [
+      {
+        "field_name": "",
+        "type": "string",
+        "allowed_values": [],
+        "confidence": "confirmed"
+      }
+    ],
+    "failure_plan": {"value": "", "confidence": "confirmed"},
+    "ba_provisional_calls": [
+      {"field": "", "ba_reasoning": ""}
+    ],
+    "stakeholder_question_packet": [
+      {
+        "question": "",
+        "answer_format": "yes_no",
+        "options": []
+      }
+    ]
+  },
+  "golden_dataset": {
+    "examples": [
+      {
+        "situation": "",
+        "expected_result": "",
+        "case_type": "normal",
+        "note": ""
+      }
+    ],
+    "known_gaps": ""
+  },
+  "eval_report": {
+    "examples_checked": 0,
+    "passed": 0,
+    "results": [
+      {
+        "example": "",
+        "result": "pass",
+        "cause": "null",
+        "sent_to": ""
+      }
+    ]
+  }
+}

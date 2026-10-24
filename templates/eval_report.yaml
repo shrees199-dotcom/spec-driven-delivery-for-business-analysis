@@ -1,0 +1,7 @@
+examples_checked: 0
+passed: 0
+results:
+  - example: ""
+    result: "pass"
+    cause: "null"
+    sent_to: ""
